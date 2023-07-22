@@ -1,0 +1,125 @@
+*{
+   /* background-color: rgb(178, 114, 255); */
+   background-image:url('https://media.tenor.com/f0cKyHniahEAAAAd/background-khaoticfuture.gif');
+  margin: 0;
+  padding: 0;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:cover;
+}
+
+/*  MY PERSONAL BG HINTS!!
+ https://media.tenor.com/f0cKyHniahEAAAAd/background-khaoticfuture.gif
+   https://media.tenor.com/FIlAXMHf8vsAAAAd/naruto-background.gif
+   https://i.makeagif.com/media/4-30-2018/CgK1O9.gif
+   https://i.pinimg.com/originals/ff/4c/1f/ff4c1fa814c932c9ff0d4dbeb3bf82db.gif
+   https://i.pinimg.com/originals/88/15/63/881563d6444b370fa4ceea0c3183bb4c.gif
+   https://thumbs.gfycat.com/CookedBeautifulDungbeetle-size_restricted.gif
+   
+ */
+
+.container{
+  max-width: 600px;
+  background-color: rgb(16, 181, 140);
+  background-image: none;
+  /* margin: auto; */
+  margin: 5% 30% ;
+  padding-bottom: 5%;
+  padding: 0 1rem;
+
+  border-style:hidden;
+  border-radius: 15px;
+  border-bottom: 5%;
+  border:2px solid black;
+  
+  
+}
+
+
+h1{
+  background-image: none;
+  margin-top: 1rem;
+  text-align: center;
+}
+
+.top{
+  background-image: none;
+  margin-top: 1rem;
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+
+}
+
+input{
+  background-image: none;
+  border: none;
+  outline: none;
+  width: 400px;
+  padding: 0.5rem;
+  border-bottom: 1px solid black;
+}
+
+.add{
+  background-image: none;
+  background-color: brown;
+  color: rgb(255, 255, 255);
+  padding: 0.5rem 1.5rem;
+  cursor: pointer;
+}
+
+.add:hover{
+  background-image: none;
+  background-color: rgb(64, 226, 64);
+}
+
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: none;
+}
+
+.todo{
+  background-image: none;
+  position: relative;
+  margin-top: 1rem;
+  background-color: rgb(0, 0, 0);
+  color: wheat;
+  padding: 1.5rem 3rem;
+  border-radius: 5px;
+}
+
+.todo:hover{
+  background-image: none;
+  background-color: blueviolet;
+}
+
+.icons{
+  background-image: none;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 20px;
+  display: flex;
+  gap: 0.5rem;
+}
+
+.icon{
+  background-image: none;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.list{
+  background-image: none;
+} 
+
+
+.text{
+  background-image: none;
+}
